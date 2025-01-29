@@ -1,0 +1,7 @@
+{
+    "name": "Hello Fiasco",
+    "description": "A simple tool to say hello to Fiasco",
+    "url": "http://localhost:3001",
+    "emoji": "👋",
+    "author": "Your Name"
+  }
